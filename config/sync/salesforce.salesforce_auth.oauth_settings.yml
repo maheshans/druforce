@@ -1,0 +1,16 @@
+uuid: 08801c4a-c022-4de6-aa61-8615a0c84cdc
+langcode: en
+status: true
+dependencies:
+  config:
+    - key.key.salesforce_key
+  module:
+    - salesforce_jwt
+id: oauth_settings
+label: 'OAuth Settings'
+provider: jwt
+provider_settings:
+  consumer_key: 3MVG9cHH2bfKACZal.CNoambd0JV9DELQW9un0RtCVTP2JJRmKUgN3No7xuYgwUWozw8cF0bendoCypl3nHum
+  login_user: mahesha@northstudio.com
+  login_url: 'https://login.salesforce.com'
+  encrypt_key: salesforce_key

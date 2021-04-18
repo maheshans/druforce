@@ -1,0 +1,1 @@
+./vendor/bin/drush si standard --account-name admin --account-pass admin
