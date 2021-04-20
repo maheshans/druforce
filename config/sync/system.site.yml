@@ -1,7 +1,7 @@
 uuid: aacb6e14-1340-4d94-804a-d5a0a2c27f4f
-name: 'Drush Site-Install'
+name: 'Go DruForce'
 mail: admin@example.com
-slogan: ''
+slogan: 'Drupal and Salesforce integration profile'
 page:
   403: ''
   404: ''
